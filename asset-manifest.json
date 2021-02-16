@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/bogomolchikk/static/css/main.53882f58.chunk.css",
+    "main.js": "/bogomolchikk/static/js/main.a0f32b84.chunk.js",
+    "main.js.map": "/bogomolchikk/static/js/main.a0f32b84.chunk.js.map",
+    "runtime-main.js": "/bogomolchikk/static/js/runtime-main.09f5a02e.js",
+    "runtime-main.js.map": "/bogomolchikk/static/js/runtime-main.09f5a02e.js.map",
+    "static/js/2.5de227c9.chunk.js": "/bogomolchikk/static/js/2.5de227c9.chunk.js",
+    "static/js/2.5de227c9.chunk.js.map": "/bogomolchikk/static/js/2.5de227c9.chunk.js.map",
+    "static/js/3.cc93abdd.chunk.js": "/bogomolchikk/static/js/3.cc93abdd.chunk.js",
+    "static/js/3.cc93abdd.chunk.js.map": "/bogomolchikk/static/js/3.cc93abdd.chunk.js.map",
+    "index.html": "/bogomolchikk/index.html",
+    "static/css/main.53882f58.chunk.css.map": "/bogomolchikk/static/css/main.53882f58.chunk.css.map",
+    "static/js/2.5de227c9.chunk.js.LICENSE.txt": "/bogomolchikk/static/js/2.5de227c9.chunk.js.LICENSE.txt",
+    "static/media/caveat.css": "/bogomolchikk/static/media/Caveatregular.c565f84f.woff",
+    "static/media/Nastya.6317e623.png": "/bogomolchikk/static/media/Nastya.6317e623.png",
+    "static/media/background1.c7a1a8e5.png": "/bogomolchikk/static/media/background1.c7a1a8e5.png",
+    "static/media/background2.5102c1bf.png": "/bogomolchikk/static/media/background2.5102c1bf.png",
+    "static/media/cake.1e2efdaa.png": "/bogomolchikk/static/media/cake.1e2efdaa.png",
+    "static/media/group.a1e1452d.svg": "/bogomolchikk/static/media/group.a1e1452d.svg",
+    "static/media/inst.3046e1c5.svg": "/bogomolchikk/static/media/inst.3046e1c5.svg",
+    "static/media/leave.703ca86e.svg": "/bogomolchikk/static/media/leave.703ca86e.svg",
+    "static/media/logo.61dcd251.svg": "/bogomolchikk/static/media/logo.61dcd251.svg",
+    "static/media/map.501e82c8.png": "/bogomolchikk/static/media/map.501e82c8.png",
+    "static/media/phone1.88d4ead4.png": "/bogomolchikk/static/media/phone1.88d4ead4.png",
+    "static/media/phone2.950fbcee.png": "/bogomolchikk/static/media/phone2.950fbcee.png",
+    "static/media/phone3.4a1be6b6.png": "/bogomolchikk/static/media/phone3.4a1be6b6.png",
+    "static/media/portfolio0.4cc17ffb.png": "/bogomolchikk/static/media/portfolio0.4cc17ffb.png",
+    "static/media/slider-left.98374091.svg": "/bogomolchikk/static/media/slider-left.98374091.svg",
+    "static/media/slider-right.1276e8b4.svg": "/bogomolchikk/static/media/slider-right.1276e8b4.svg",
+    "static/media/App.scss": "/bogomolchikk/static/media/stat-background.9ce6e90e.png",
+    "static/media/stat-case.52727126.svg": "/bogomolchikk/static/media/stat-case.52727126.svg",
+    "static/media/stat-money.d51c23d8.svg": "/bogomolchikk/static/media/stat-money.d51c23d8.svg",
+    "static/media/white-line.aa6f95b0.svg": "/bogomolchikk/static/media/white-line.aa6f95b0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09f5a02e.js",
+    "static/js/2.5de227c9.chunk.js",
+    "static/css/main.53882f58.chunk.css",
+    "static/js/main.a0f32b84.chunk.js"
+  ]
+}
